@@ -90,6 +90,6 @@ npm start
 - The backend server needs to be running for the frontend to fetch video data.
 - Ensure that the .env file is properly configured with the correct port number.
 
-  ---
+---
 
 
